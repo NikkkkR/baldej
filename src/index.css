@@ -1,0 +1,14 @@
+/* .mainWrapp{
+    display: flex;
+    gap: 15px;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: gray;
+    color: black;
+}
